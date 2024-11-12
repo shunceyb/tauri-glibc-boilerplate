@@ -1,4 +1,4 @@
-# Tauri boilerplate/example to link against older glibc versions
+# Tauri boilerplate/example to link against older glibc versions using zig.
 
 ## *If you're having any issues, please open an issue.*
 
